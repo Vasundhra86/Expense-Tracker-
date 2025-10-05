@@ -28,9 +28,13 @@ A simple Java-based **Expense Tracker** application that allows users to manage 
 ## How to Run
 
 1.ExpenseTracker.java
+
 2.Setup MySql Database
+
 3.Update Database credentials
+
 4.Compile and Run the application
+
 5.Use the Application:
 
 Follow the menu in the console:
