@@ -27,4 +27,22 @@ A simple Java-based **Expense Tracker** application that allows users to manage 
 
 ## How to Run
 
-1.
+1.ExpenseTracker.java
+2.Setup MySql Database
+3.Update Database credentials
+4.Compile and Run the application
+5.Use the Application:
+
+Follow the menu in the console:
+
+•Add Expense → Enter details → It automatically stores in DB.
+
+•View Expenses → Fetches from DB.
+
+•Update Expense → Modify existing record in DB.
+
+•Delete Expense → Remove record from DB.
+
+•Reports → Shows summaries based on DB data.
+
+•Exit → Close the app safely.
